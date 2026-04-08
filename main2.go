@@ -8,7 +8,7 @@ import (
 
 	"github.com/joho/godotenv"
      "github.com/go-chi/chi/v5"
-	 "github.com/go-chi/cors"
+	 //"github.com/go-chi/cors"
 	)
 
 func main() {
