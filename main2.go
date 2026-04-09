@@ -33,7 +33,6 @@ func main() {
 	err := serv.ListenAndServe()
 	if err!=nil{
 		log.Fatal(err)
-	fmt.Println("port:", portstring)
 
 	}
 }
